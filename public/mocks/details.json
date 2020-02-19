@@ -1,0 +1,31 @@
+{
+   "data":[
+      {
+         "resourceId":"6QdmgYeorK28kWbprXML",
+         "statusKey":"finished",
+         "original":"https://picsum.photos/800/600",
+         "thumbnail":"https://picsum.photos/200/300",
+         "name":"news.ycombinator.com\/.png",
+         "size":4642.688,
+      },
+      {
+         "resourceId":"e3vD46EjGlJlBGXngr5Y",
+         "statusKey":"finished",
+         "original":"https://picsum.photos/800/600",
+         "thumbnail":"https://picsum.photos/200/300",
+         "name":"google.com\/.png",
+         "size":2764.928,
+      }
+   ],
+   "meta":{
+      "study":{
+         "name":"Study",
+         "id":"5YyOD81QaLkPoxJvenZA",
+         "analysisType":"WEB",
+         "webPageType":"GENERAL",
+         "createdAt":"2020-02-10T19:22:08+00:00",
+         "updatedAt":"2020-02-10T19:23:42+00:00",
+         "statusKey":"finished"
+      }
+   }
+}

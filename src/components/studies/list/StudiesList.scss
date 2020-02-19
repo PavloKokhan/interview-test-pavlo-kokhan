@@ -1,0 +1,103 @@
+.studies {
+  &__header {
+    padding-top: 15px;
+    margin-bottom: 25px;
+    font-size: 24px;
+  }
+
+  &__list {
+    list-style: none;
+    padding: 0;
+    background: #212121;
+    border-radius: 0 0 10px 10px;
+  }
+
+  &__card {
+
+  }
+
+  &__item {
+    padding: 15px 30px;
+    display: flex;
+    align-items: center;
+  }
+
+  &__panel {
+    min-height: 40px;
+    background: #121212;
+    padding: 15px 30px;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 10px 10px 0 0;
+    &_right {
+      justify-content: flex-end;
+    }
+    .btn-group {
+      .btn {
+        &:focus {
+          box-shadow: none;
+        }
+      }
+    }
+  }
+
+  &__content {
+    padding: 30px 30px;
+  }
+
+  &__slider-wrapper {
+    width: 50%;
+    margin-right: 40px;
+  }
+}
+
+.item {
+  &__image {
+    width: 40px;
+    height: 40px;
+    background-size: cover;
+    margin-right: 20px;
+    border-radius: 50%;
+  }
+
+  &__wrapper {
+    display: flex;
+    flex-direction: column;
+  }
+
+  &__info {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    align-items: flex-end;
+    padding-right: 40px;
+  }
+
+  &__header {
+    font-size: 14px;
+  }
+
+  &__created {
+    margin-bottom: 0;
+    font-size: 14px;
+  }
+  
+  &__updated {
+    font-size: 11px;
+    font-style: italic;
+  }
+
+  &__details {
+  }
+
+  &__description {
+    width: 50%;
+    display: flex;
+    align-items: center;
+  }
+  
+  &__status {
+    font-size: 14px;
+    text-transform: capitalize;
+  }
+}

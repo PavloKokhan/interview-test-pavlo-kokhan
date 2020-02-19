@@ -1,0 +1,252 @@
+{
+   "data":[
+      {
+         "id":"5YyOD81QaLkPoxJvenZA",
+         "name":"Study",
+         "createdAt":"2020-02-10T19:22:08+00:00",
+         "updatedAt":"2020-02-10T19:23:42+00:00",
+         "statusKey":"finished",
+         "studyThumbnail":"https://picsum.photos/200/300",
+         "imagesCount":2,
+         "tags":[
+
+         ]
+      },
+      {
+         "id":"vw05mMX6lgE5a42RgJxb",
+         "name":"Study",
+         "createdAt":"2020-02-10T17:49:20+00:00",
+         "updatedAt":"2020-02-10T19:13:59+00:00",
+         "statusKey":"finished",
+         "studyThumbnail":"https://picsum.photos/200/300",
+         "imagesCount":7,
+         "tags":[
+
+         ]
+      },
+      {
+         "id":"89gOZL3JpKWqpb0yNvXE",
+         "name":"Study",
+         "createdAt":"2020-02-05T07:46:20+00:00",
+         "updatedAt":"2020-02-05T07:46:20+00:00",
+         "statusKey":"draft",
+         "studyThumbnail":"https://picsum.photos/200/300",
+         "imagesCount":13,
+         "tags":[
+
+         ]
+      },
+      {
+         "id":"eKJmVvOXljd0aQPjEbrW",
+         "name":"Study",
+         "createdAt":"2020-02-04T16:41:31+00:00",
+         "updatedAt":"2020-02-05T15:14:28+00:00",
+         "statusKey":"finished",
+         "studyThumbnail":"https://picsum.photos/200/300",
+         "imagesCount":11,
+         "tags":[
+
+         ]
+      },
+      {
+         "id":"M0ngbOPzpzvrpDkdym78",
+         "name":"Study",
+         "createdAt":"2020-02-02T14:34:03+00:00",
+         "updatedAt":"2020-02-02T14:34:03+00:00",
+         "statusKey":"draft",
+         "studyThumbnail":"https://picsum.photos/200/300",
+         "imagesCount":3,
+         "tags":[
+
+         ]
+      },
+      {
+         "id":"xz5YO48Bpqy6pjKm9eVW",
+         "name":"Study",
+         "createdAt":"2020-01-29T14:01:22+00:00",
+         "updatedAt":"2020-02-04T16:41:18+00:00",
+         "statusKey":"pending",
+         "studyThumbnail":"https://picsum.photos/200/300",
+         "imagesCount":12,
+         "tags":[
+
+         ]
+      },
+      {
+         "id":"b578mjVRlk3mlG4kQ2D9",
+         "name":"Study :D",
+         "createdAt":"2020-01-28T19:03:09+00:00",
+         "updatedAt":"2020-01-28T19:09:05+00:00",
+         "statusKey":"draft",
+         "studyThumbnail":"https://picsum.photos/200/300",
+         "imagesCount":3,
+         "tags":[
+
+         ]
+      },
+      {
+         "id":"KNLEGxw4oNqBlVn5OWAk",
+         "name":"Study",
+         "createdAt":"2020-01-26T14:06:55+00:00",
+         "updatedAt":"2020-02-05T15:11:16+00:00",
+         "statusKey":"finished",
+         "studyThumbnail":"https://picsum.photos/200/300",
+         "imagesCount":14,
+         "tags":[
+
+         ]
+      },
+      {
+         "id":"b578mjVRlkNmpG4kQ2D9",
+         "name":"Study rico",
+         "createdAt":"2020-01-25T13:47:55+00:00",
+         "updatedAt":"2020-01-29T18:47:00+00:00",
+         "statusKey":"finished",
+         "studyThumbnail":"https://picsum.photos/200/300",
+         "imagesCount":12,
+         "tags":[
+
+         ]
+      },
+      {
+         "id":"5NA19y37lMQzljPJBxvm",
+         "name":"Study with buggy last image",
+         "createdAt":"2020-01-21T18:08:35+00:00",
+         "updatedAt":"2020-01-31T09:03:07+00:00",
+         "statusKey":"finished",
+         "studyThumbnail":"https://picsum.photos/200/300",
+         "imagesCount":6,
+         "tags":[
+
+         ]
+      },
+      {
+         "id":"xz5YO48BpqGYojKm9eVW",
+         "name":"Study 123",
+         "createdAt":"2020-01-16T06:53:53+00:00",
+         "updatedAt":"2020-01-23T18:09:56+00:00",
+         "statusKey":"finished",
+         "studyThumbnail":"https://picsum.photos/200/300",
+         "imagesCount":3,
+         "tags":[
+
+         ]
+      },
+      {
+         "id":"NerGvWM6pPW6amQJ8VPb",
+         "name":"Study",
+         "createdAt":"2020-01-15T18:53:10+00:00",
+         "updatedAt":"2020-01-25T13:40:58+00:00",
+         "statusKey":"finished",
+         "studyThumbnail":"https://picsum.photos/200/300",
+         "imagesCount":6,
+         "tags":[
+
+         ]
+      },
+      {
+         "id":"5YyOD81QaLy8pxJvenZA",
+         "name":"Study",
+         "createdAt":"2020-01-15T18:50:28+00:00",
+         "updatedAt":"2020-01-29T18:15:15+00:00",
+         "statusKey":"finished",
+         "studyThumbnail":"https://picsum.photos/200/300",
+         "imagesCount":4,
+         "tags":[
+
+         ]
+      },
+      {
+         "id":"Lq6MeBnVl8MEoxPZKyOX",
+         "name":"Study",
+         "createdAt":"2020-01-15T18:44:48+00:00",
+         "updatedAt":"2020-01-15T18:48:21+00:00",
+         "statusKey":"finished",
+         "studyThumbnail":"https://picsum.photos/200/300",
+         "imagesCount":2,
+         "tags":[
+
+         ]
+      },
+      {
+         "id":"Pv0rRGLmpmG1oXZz2YOk",
+         "name":"Study",
+         "createdAt":"2020-01-15T18:40:30+00:00",
+         "updatedAt":"2020-01-15T18:42:04+00:00",
+         "statusKey":"finished",
+         "studyThumbnail":"https://picsum.photos/200/300",
+         "imagesCount":1,
+         "tags":[
+
+         ]
+      },
+      {
+         "id":"rQ0EDNYzl7A5a2gKvWX3",
+         "name":"Study",
+         "createdAt":"2020-01-15T18:37:34+00:00",
+         "updatedAt":"2020-01-15T18:38:33+00:00",
+         "statusKey":"finished",
+         "studyThumbnail":"https://picsum.photos/200/300",
+         "imagesCount":1,
+         "tags":[
+
+         ]
+      },
+      {
+         "id":"Q67BVD3vaVKApJWerKPm",
+         "name":"Study",
+         "createdAt":"2020-01-15T18:35:38+00:00",
+         "updatedAt":"2020-01-15T18:37:07+00:00",
+         "statusKey":"finished",
+         "studyThumbnail":"https://picsum.photos/200/300",
+         "imagesCount":1,
+         "tags":[
+
+         ]
+      },
+      {
+         "id":"eKJmVvOXljV9lQPjEbrW",
+         "name":"Study",
+         "createdAt":"2020-01-15T18:27:19+00:00",
+         "updatedAt":"2020-01-15T18:34:26+00:00",
+         "statusKey":"finished",
+         "studyThumbnail":"https://picsum.photos/200/300",
+         "imagesCount":1,
+         "tags":[
+
+         ]
+      },
+      {
+         "id":"egy2Dr9OlWYKaP6NxnBj",
+         "name":"Study",
+         "createdAt":"2020-01-15T18:22:21+00:00",
+         "updatedAt":"2020-01-15T18:23:10+00:00",
+         "statusKey":"finished",
+         "studyThumbnail":"https://picsum.photos/200/300",
+         "imagesCount":1,
+         "tags":[
+
+         ]
+      },
+      {
+         "id":"mJk085jxa2MzoBWNG23y",
+         "name":"Study",
+         "createdAt":"2020-01-15T18:20:34+00:00",
+         "updatedAt":"2020-01-15T18:21:48+00:00",
+         "statusKey":"finished",
+         "studyThumbnail":"https://picsum.photos/200/300",
+         "imagesCount":1,
+         "tags":[
+
+         ]
+      }
+   ],
+   "meta":{
+      "current_page":1,
+      "from":1,
+      "last_page":4,
+      "per_page":20,
+      "to":20,
+      "total":66
+   }
+}

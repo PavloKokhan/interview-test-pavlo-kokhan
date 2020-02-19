@@ -1,0 +1,50 @@
+.autocomplete {
+  position: relative;
+  width: 300px;
+  input {
+    outline: none;
+    border: none;
+    &:focus {
+      border-color: #ced4da;
+      outline: none;
+      box-shadow: none;
+    }
+  }
+
+  .matches {
+    list-style: none inside none;
+    padding: 0;
+    border: 1px solid #ced4da;
+    border-top: 0;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    position: absolute;
+    top: 100%;
+    width: 100%;
+    background: #fff;
+    z-index: 1;
+    b {
+      font-weight: bold;
+      font-size: 16px;
+      color: #343a40;
+    }
+
+    a {
+      text-decoration: none;
+      color: inherit;
+      display: block;
+      padding: .375rem .75rem;
+      font-family: 'Open Sans', sans-serif;
+      font-size: 14px;
+    }
+
+    li {
+      cursor: pointer;
+      color: #000;
+      &:hover, &.hover {
+        background-color: rgba(0, 0, 0, .05);
+      }
+    }
+  }
+
+}

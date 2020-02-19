@@ -1,0 +1,50 @@
+.slider {
+  &__image {
+    max-width: 100%;
+    border-radius: 6px;
+  }
+
+  &__header {
+    font-size: 14px;
+  }
+}
+
+.study {
+  &__content {
+    padding: 30px 30px;
+    display: flex;
+    background: #212121;
+    border-radius: 0 0 10px 10px;
+  }
+
+  &__slider-wrapper {
+    width: 50%;
+    overflow: hidden;
+    margin-right: 40px;
+  }
+
+  &__info {
+    display: flex;
+    flex-direction: column;
+    width: calc(50% - 40px);
+  }
+
+  &__header {
+    font-size: 22px;
+    margin-bottom: 25px;
+  }
+
+  &__description {
+    font-size: 14px;
+    line-height: 1.6;
+    margin-bottom: 25px;
+    text-align: justify;
+  }
+
+  &__dates {
+    font-size: 11px;
+    display: flex;
+    justify-content: space-between;
+    font-style: italic;
+  }
+}
